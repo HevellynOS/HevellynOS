@@ -9,6 +9,6 @@ tenho 21 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 
 *   🌍  I'm based in Minas Gerais
 *   🖥️  See my portfolio at [GitHub](http://github.com/HevellynOS)
 *   ✉️  You can contact me at [oshirohevellyn@gmail.com](mailto:oshirohevellyn@gmail.com)
-*   🧠  I'm learning javascript, react
+*   🧠  I'm learning javascript
 *   🤝  I'm open to collaborating on website development
 *   ⚡  Time is money, and by now I'm running against time to improve my ability to analyze and development of systems, with a focus on website development, and training my English at the same time, I will love to make a difference in technology with my creativity and open-minded.
