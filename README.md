@@ -28,7 +28,7 @@ tenho 22 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 
     Enthusiastic developer. Currently studying:
       - Learning Back-End (C, SQL, GraphQL) 
       - Learning Front-End (JS, HTML, CSS)
-      - Framework and Libraries (React, Typescript, Styled Component, WordPress)
+            - Framework and Libraries (React, Typescript, Styled Component, WordPress)
       - Testing and Auxiliary Tools (NodeJS, Jest, Saas Scss)
 ---
 
