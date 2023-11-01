@@ -42,6 +42,4 @@ tenho 22 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-  
-![Snake animation](https://github.com/HevellynOS/HevellynOS/blob/output/github-contribution-grid-snake.svg)
 </div>
