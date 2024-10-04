@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedora WEB FrontEnd
 ---------------------------
 
-tenho 22 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 2 ano, acredito na teoria do mindset de crescimento sou apaixonada pela área da tecnologia, estou a procura de desafios para ampliar meus conhecimentos e melhorar meu portfólio, já desenvolvo paginas web, tenho como meta me tornar uma desenvolvedora fullstack.
+tenho 23 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 2 ano, acredito na teoria do mindset de crescimento sou apaixonada pela área da tecnologia, estou a procura de desafios para ampliar meus conhecimentos e melhorar meu portfólio, já desenvolvo paginas web, tenho como meta me tornar uma desenvolvedora fullstack.
 
 *   🌍  I'm based in Minas Gerais
 *   🖥️  See my portfolio at [GitHub](http://github.com/HevellynOS)
