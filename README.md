@@ -1,17 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hevellyn Oshiro
+Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Hevellyn Oshiro
 =======================================================================================================================================
-
-Desenvolvedora WEB FrontEnd
----------------------------
-
-tenho 23 anos, sou Brasileira, MG, comecei a estudar CSS, HTML e Javascript faz 2 ano, acredito na teoria do mindset de crescimento sou apaixonada pela área da tecnologia, estou a procura de desafios para ampliar meus conhecimentos e melhorar meu portfólio, já desenvolvo paginas web, tenho como meta me tornar uma desenvolvedora fullstack.
-
-*   🌍  I'm based in Minas Gerais
-*   🖥️  See my portfolio at [GitHub](http://github.com/HevellynOS)
-*   ✉️  You can contact me at [contatohevellynoshiro@gmail.com](mailto:contatohevellynoshiro@gmail.com)
-*   🧠  Studing Bubble, N8N, Supabase, React, Javascript
-*   ⚡  Time is money, and by now I'm running against time to improve my ability to analyze and development of systems, with a focus on website development, and training my English at the same time, I will love to make a difference in technology with my creativity and open-minded.
-
 
 <img align="leaft" alt="Gif" height="350" width="1090" style="border-radius:50px;"  src="https://steamuserimages-a.akamaihd.net/ugc/1870696542665619929/75C67052A1D55CAFD1974DD992F4A2B65035E18B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
