@@ -31,7 +31,8 @@ Sou profissional de TI com experiência em infraestrutura de redes, suporte téc
 ⚙️ Desenvolvimento de ferramentas, integração de APIs e automação de processos técnicos.
 </br>
 </div>
-
+</br>
+</br>
 Segurança e redes
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
