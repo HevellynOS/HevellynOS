@@ -17,14 +17,22 @@ Sou profissional de TI com experiência em infraestrutura de redes, suporte téc
 ---
 
 ###  Minha experiência profissional envolve:  
+<div align="center">
 🔎 Análise de logs e rastreabilidade de endereços IP em ambientes NAT/CGNAT.
+</br>
 🛡️ Configuração de regras de firewall, identificação de portas e serviços expostos e investigação de acessos suspeitos.
+</br>
 🌐 Administração, diagnóstico e resolução de problemas em infraestruturas de redes.
+</br>
 📊 Monitoramento de equipamentos e análise de métricas utilizando Zabbix, Grafana e The Dude.
+</br>
 🐧 Administração de ambientes Linux e Windows, atualização de firmwares e virtualização com Proxmox.
+</br>
 ⚙️ Desenvolvimento de ferramentas, integração de APIs e automação de processos técnicos.
+</br>
+</div>
 
-Segurança e redes--
+Segurança e redes
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
@@ -32,7 +40,7 @@ Segurança e redes--
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-Monitoramento e Tecnologias--
+Monitoramento e Tecnologias
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
@@ -40,7 +48,7 @@ Monitoramento e Tecnologias--
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-Desenvolvimento e automação-- 
+Desenvolvimento e automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
